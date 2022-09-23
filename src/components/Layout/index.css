@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.layout-main-container {
+  width: 90%;
+  max-width: 1120px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
